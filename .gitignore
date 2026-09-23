@@ -1,0 +1,53 @@
+# =========================
+# Python / Backend
+# =========================
+
+Backend/venv/
+Backend/.venv/
+Backend/env/
+
+Backend/.env
+Backend/.env.local
+
+Backend/__pycache__/
+Backend/**/*.py[cod]
+
+# Python testing
+Backend/.pytest_cache/
+Backend/.coverage
+Backend/htmlcov/
+
+# =========================
+# Next.js / Frontend
+# =========================
+
+Frontend/node_modules/
+Frontend/.next/
+Frontend/out/
+
+# Next.js environment files
+Frontend/.env
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+
+*.log
